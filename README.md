@@ -1,2 +1,2 @@
 # WDD330
-My repo for WDD 330
+My repo for WDD 330 Class.
