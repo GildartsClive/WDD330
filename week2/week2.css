@@ -1,0 +1,40 @@
+body {
+	height: 100vh;
+	display: grid;
+	align-items: center;
+	justify-content: center;
+    color: gray;
+    background-color: black;
+}
+
+main {
+	border: 1px solid rgba(200, 200, 200, 0.9);
+	background-color: rgba(200, 200, 200, 0.2);
+	width: 500px;
+    padding-bottom: 1vh;
+}
+
+h2 {
+	text-align: center;
+}
+
+ol {
+    margin: inherit;
+    padding: inherit;
+}
+
+li {
+    padding: 0.5rem 0;
+	display: grid;
+	align-items: center;
+	box-sizing: border-box;
+    border: 5px solid #082445;background: #1355A0;
+}
+
+li a {
+	text-decoration: none;
+	font-family: consolas, sans-serif;
+	font-size: 0.9rem;
+    color: white;
+    text-align: center;
+}
