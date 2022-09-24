@@ -4,6 +4,10 @@ const links = [
 		url: 'codeweek2/index.html'
 	},
 	{
+		label: 'Team Code',
+		url: 'teamWeek2/index.html'
+	},
+	{
 		label: 'Back to Menu',
 		url: '../index.html'
 	}
